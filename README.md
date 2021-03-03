@@ -19,8 +19,8 @@ Created a Python file called task_manager.py in this folder.
 * This program will work with two text files, user.txt and tasks.txt . Open
 each of the files that accompany this project.
 
-    * tasks.txt stores a list of all the tasks that the team is working on.
-      Open the tasks.txt file that accompanies this project. Note that this
+    * **tasks.txt** stores a list of all the tasks that the team is working on.
+      Open the **tasks.txt** file that accompanies this project. Note that this
       text file already contains data about two tasks. The data for each
       task is stored on a separate line in the text file. Each line includes
       the following data about a task in this order:
@@ -33,24 +33,24 @@ each of the files that accompany this project.
         *  Either a ‘Yes’ or ‘No’ value that specifies if the task has been
         *  completed yet.
 
-     * user.txt stores the username and password for each user that has
-      permission to use your program ( task_manager.py ). Open the
-      user.txt file that accompanies this project. Note that this text file
+     * **user.txt** stores the username and password for each user that has
+      permission to use your program ( **task_manager.py** ). Open the
+      **user.txt** file that accompanies this project. Note that this text file
       already contains one default user that has the username, ‘admin’
       and the password, ‘adm1n’. The username and password for each
       user must be written to this file in the following format:
 
-■ First, the username followed by a comma, a space and then
-the password.
-■ One username and corresponding password per line.
-● Your program should allow your users to do the following:
-○ Login. The user should be prompted to enter a username and
-password. A list of valid usernames and passwords are stored in a
-text file called user.txt . Display an appropriate error message if the
-user enters a username that is not listed in user.txt or enters a valid
-username but not a valid password. The user should repeatedly be
-asked to enter a valid username and password until they provide
-appropriate credentials.
+            * First, the username followed by a comma, a space and then
+            the password.
+            * One username and corresponding password per line.
+* Your program should allow your users to do the following:
+         * Login. The user should be prompted to enter a username and
+         password. A list of valid usernames and passwords are stored in a
+         text file called **user.txt** . Display an appropriate error message if the
+         user enters a username that is not listed in **user.txt** or enters a valid
+         username but not a valid password. The user should repeatedly be
+         asked to enter a valid username and password until they provide
+         appropriate credentials.
 
 The following menu should be displayed once the user has
 successfully logged in:

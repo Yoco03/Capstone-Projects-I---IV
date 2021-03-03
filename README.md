@@ -11,7 +11,7 @@ _IDE used for these projects below - **Python**_
 * is a py.game that we need to create in python
 
 **Capstone folder III**
-### Complulsory Task Part 1
+#### Complulsory Task Part 1
 * We had to creating a program for a small business that can
 help it to manage tasks assigned to each member of the team. which will be an extension of our next Capstone IV.
 Created a Python file called task_manager.py in this folder.
@@ -20,18 +20,18 @@ Created a Python file called task_manager.py in this folder.
 each of the files that accompany this project.
 
     * tasks.txt stores a list of all the tasks that the team is working on.
-Open the tasks.txt file that accompanies this project. Note that this
-text file already contains data about two tasks. The data for each
-task is stored on a separate line in the text file. Each line includes
-the following data about a task in this order:
+      Open the tasks.txt file that accompanies this project. Note that this
+      text file already contains data about two tasks. The data for each
+      task is stored on a separate line in the text file. Each line includes
+      the following data about a task in this order:
 
-■ The username of the person to whom the task is assigned.
-■ The title of the task.
-■ A description of the task.
-■ The date that the task was assigned to the user.
-■ The due date for the task.
-■ Either a ‘Yes’ or ‘No’ value that specifies if the task has been
-completed yet.
+        * The username of the person to whom the task is assigned.
+        *  The title of the task.
+        *  A description of the task.
+        *  The date that the task was assigned to the user.
+        *  The due date for the task.
+        *  Either a ‘Yes’ or ‘No’ value that specifies if the task has been
+        *  completed yet.
 
 ○ user.txt stores the username and password for each user that has
 permission to use your program ( task_manager.py ). Open the

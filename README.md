@@ -94,10 +94,10 @@ currently logged-in in a user-friendly, easy to read manner.
 #### Compulsory Task
 
 _Follow these steps:_
-   * Create a copy of your previous Capstone project ( task_manager.py) and
-   save it in the Dropbox folder for this project. Also, copy and paste the text
-   files ( user.txt and tasks.txt ) that accompanied the previous Capstone
-   project to this folder. Modify this program as follows:
+   * Create a copy of your previous Capstone project ( task_manager.py). 
+      Also, copy and paste the text
+      files ( user.txt and tasks.txt ) that accompanied the previous Capstone
+      project to this folder. Modify this program as follows:
    * Modify the code of your previous project so that functions are used.
    Adding functions will improve the modularity of your code. Your program
    should include at least the following functions:

@@ -5,10 +5,10 @@
 _IDE used for these projects below - **Python**_
 
 **Capstone folder I**
-1. is a finace calculator that we need to create in python
+* is a finace calculator that we need to create in python
 
 **Capstone folder II**
-1. is a py.game that we need to create in python
+* is a py.game that we need to create in python
 
 **Capstone folder III**
 ### Complulsory Task Part 1
@@ -16,10 +16,10 @@ _IDE used for these projects below - **Python**_
 help it to manage tasks assigned to each member of the team. which will be an extension of our next Capstone IV.
 Created a Python file called task_manager.py in this folder.
 
- 1.This program will work with two text files, user.txt and tasks.txt . Open
+* This program will work with two text files, user.txt and tasks.txt . Open
 each of the files that accompany this project.
 
-○ tasks.txt stores a list of all the tasks that the team is working on.
+ * tasks.txt stores a list of all the tasks that the team is working on.
 Open the tasks.txt file that accompanies this project. Note that this
 text file already contains data about two tasks. The data for each
 task is stored on a separate line in the text file. Each line includes

@@ -3,6 +3,7 @@
 ### In this file you will find 4 Capstone projects with completed tasks that was done at HyperionDev.
 
 _IDE used for these projects below - **Python**_
+
 _ Mentor at https://www.hyperiondev.com/ for all my projects onsite is Hishaam and online is Hishaam Nusterdien follow careers@hyperiondev.com
 
 ### **1. Capstone folder I**

@@ -4,7 +4,7 @@
 
 _IDE used for these projects below - **Python**_
 
-_ Mentor at https://www.hyperiondev.com/ for all my projects onsite is Hishaam and online is Hishaam Nusterdien follow careers@hyperiondev.com
+_ Mentor at https://www.hyperiondev.com/ for all my projects onsite is Hishaam and online is Hishaam Nusterdien follow careers@hyperiondev.com_
 
 ### **1. Capstone folder I**
 * is a finace calculator that we need to create in python

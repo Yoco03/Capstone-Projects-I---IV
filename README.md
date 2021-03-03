@@ -57,7 +57,9 @@ each of the files that accompany this project.
 
          The following menu should be displayed once the user has
          successfully logged in:
+         
 ![](Capstone%20Project%20III%20(Task%2020)/images/task.png)
+            
             * If the user chooses ‘r’ to register a user, the user should be
             prompted for a new username and password. The user should also
             be asked to confirm the password. If the value entered to confirm

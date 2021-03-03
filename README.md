@@ -131,7 +131,7 @@ not yet been completed.
 * Add an option to generate reports to the main menu of the application.
 The menu for the admin user should now look something like this:
 
-![](Capstone%20Project%20III%20(Task%2020)/images/menu.png)
+![](Capstone%20Project%20III%20(Task%2020)/images/menu.JPG)
 
 * When the user chooses to generate reports, two text files, called
 task_overview.txt and user_overview.txt , should be generated. Both

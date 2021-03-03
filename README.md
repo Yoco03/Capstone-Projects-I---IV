@@ -1,6 +1,6 @@
 # Capstone-Projects
 
-### In this file you will find 4 Capstone projects with completed tasks that was done at HyperionDev.
+### In this file you will find 4 Capstone projects that are compeleted though HyperionDev.
 
 _IDE used for these projects below - **Python**_
 

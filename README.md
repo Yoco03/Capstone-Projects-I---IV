@@ -43,7 +43,7 @@ each of the files that accompany this project.
             * First, the username followed by a comma, a space and then
             the password.
             * One username and corresponding password per line.
-![](image/task.png
+![](Capstone%20Project%20III%20(Task%2020)/image/task.png
 
 * Your program should allow your users to do the following:
          * Login. The user should be prompted to enter a username and

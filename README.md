@@ -11,6 +11,7 @@ _IDE used for these projects below - **Python**_
 1. is a py.game that we need to create in python
 
 **Capstone folder III**
+## Complulsory Task Part 1
 * We had to creating a program for a small business that can
 help it to manage tasks assigned to each member of the team. which will be an extension of our next Capstone IV.
 Created a Python file called task_manager.py in this folder.

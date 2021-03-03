@@ -131,7 +131,40 @@ not yet been completed.
 * Add an option to generate reports to the main menu of the application.
 The menu for the admin user should now look something like this:
 
+![](Capstone%20Project%20III%20(Task%2020)/images/menu.png)
 
+* When the user chooses to generate reports, two text files, called
+task_overview.txt and user_overview.txt , should be generated. Both
+these text files should output data in a user-friendly, easy to read manner.
+   * task_overview.txt should contain:
+      * The total number of tasks that have been generated and
+tracked using the task_manager.py .
+      * The total number of completed tasks.
+      * The total number of uncompleted tasks.
+      * The total number of tasks that haven’t been completed and
+that are overdue.
+      * The percentage of tasks that are incomplete.
+      * The percentage of tasks that are overdue.
+   * user_overview.txt should contain:
+      * The total number of users registered with task_manager.py .
+      * The total number of tasks that have been generated and
+tracked using the task_manager.py .
+      * For each user also describe:
+      * The total number of tasks assigned to that user.
+      * What percentage of the total number of tasks have
+been assigned to that user?
+      * What percentage of the tasks assigned to that user
+have been completed?
+      * What percentage of the tasks assigned to that user
+must still be completed?
+      * What percentage of the tasks assigned to that user
+have not yet been completed and are overdue?
+      * Modify the menu option that allows the admin to display statistics so that
+the reports generated are read from task_overview.txt and
+user_overview.txt and displayed on the screen in a user-friendly manner.
+If these text files don’t exist (because the user hasn’t selected to generate
+them yet), first call the code to generate the text files.
+Hyperion
 
 
 

@@ -82,12 +82,12 @@ currently logged-in in a user-friendly, easy to read manner.
 
 #### Compulsory Task Part 2
 * Now format your program so that:
-                     * Only the user with the username ‘admin’ is allowed to register
-                     users.
-                     * The admin user is provided with a new menu option that allows
-                     them to display statistics. When this menu option is selected, the
-                     total number of tasks and the total number of users should be
-                     displayed in a user-friendly manner.
+   * Only the user with the username ‘admin’ is allowed to register
+     users.
+   * The admin user is provided with a new menu option that allows
+     them to display statistics. When this menu option is selected, the
+     total number of tasks and the total number of users should be
+     displayed in a user-friendly manner.
 
 **Capstone folder IV**
 1. is a finace calculator that we need to create in python

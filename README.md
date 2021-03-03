@@ -33,12 +33,12 @@ each of the files that accompany this project.
         *  Either a ‘Yes’ or ‘No’ value that specifies if the task has been
         *  completed yet.
 
-○ user.txt stores the username and password for each user that has
-permission to use your program ( task_manager.py ). Open the
-user.txt file that accompanies this project. Note that this text file
-already contains one default user that has the username, ‘admin’
-and the password, ‘adm1n’. The username and password for each
-user must be written to this file in the following format:
+     * user.txt stores the username and password for each user that has
+      permission to use your program ( task_manager.py ). Open the
+      user.txt file that accompanies this project. Note that this text file
+      already contains one default user that has the username, ‘admin’
+      and the password, ‘adm1n’. The username and password for each
+      user must be written to this file in the following format:
 
 ■ First, the username followed by a comma, a space and then
 the password.

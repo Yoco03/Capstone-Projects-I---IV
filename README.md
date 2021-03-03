@@ -44,10 +44,10 @@ each of the files that accompany this project.
             the password.
         * One username and corresponding password per line.
  
-![](Capstone%20Project%20III%20(Task%2020)/images/task.png)
+
 
 * Your program should allow your users to do the following:
-         * Login. The user should be prompted to enter a username and
+        * Login. The user should be prompted to enter a username and
          password. A list of valid usernames and passwords are stored in a
          text file called **user.txt** . Display an appropriate error message if the
          user enters a username that is not listed in **user.txt** or enters a valid
@@ -55,14 +55,15 @@ each of the files that accompany this project.
          asked to enter a valid username and password until they provide
          appropriate credentials.
 
-The following menu should be displayed once the user has
-successfully logged in:
-○ If the user chooses ‘r’ to register a user, the user should be
-prompted for a new username and password. The user should also
-be asked to confirm the password. If the value entered to confirm
-the password matches the value of the password, the username
-and password should be written to user.txt in the appropriate
-format.
+         The following menu should be displayed once the user has
+         successfully logged in:
+![](Capstone%20Project%20III%20(Task%2020)/images/task.png)
+         * If the user chooses ‘r’ to register a user, the user should be
+         prompted for a new username and password. The user should also
+         be asked to confirm the password. If the value entered to confirm
+         the password matches the value of the password, the username
+         and password should be written to user.txt in the appropriate
+         format.
 
 ○ If the user chooses ‘a’ to add a task, the user should be prompted to
 enter the username of the person the task is assigned to, the title of

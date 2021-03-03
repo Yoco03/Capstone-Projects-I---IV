@@ -19,7 +19,7 @@ Created a Python file called task_manager.py in this folder.
 * This program will work with two text files, user.txt and tasks.txt . Open
 each of the files that accompany this project.
 
- * tasks.txt stores a list of all the tasks that the team is working on.
+    * tasks.txt stores a list of all the tasks that the team is working on.
 Open the tasks.txt file that accompanies this project. Note that this
 text file already contains data about two tasks. The data for each
 task is stored on a separate line in the text file. Each line includes
